@@ -32,3 +32,29 @@ h1{
     margin: 20px 0;
     text-align: center;
 }
+.block{
+    background-color: rgb(230, 140, 14);
+    width: 100vw;
+    height:100vh;
+}
+.block p{
+    text-align: center;
+    padding-top:20px;
+    font-size:24px;
+    color:blue;
+    text-shadow: 2px 2px 5px black;
+}
+.planet{
+  margin-left: calc(50% - 190px);
+  margin-top: 40px;
+  border-radius: 50%;
+  width: 380px;
+  height: 380px;
+  background-color: blue;
+  border: 2px solid black;
+  overflow: hidden;
+  box-shadow: 0 0 30px 15px rgba(0, 17, 201, 0.707);
+}
+ .planet img{
+    margin-left: -10px;
+} 
