@@ -20,6 +20,8 @@ li {
 }
 
 a{
+    padding:5px;
+    margin: 5px;
     text-decoration: none;
     color: white
 }
